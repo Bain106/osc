@@ -1,4 +1,4 @@
-# *РИРИРВИ*
-sdkfmkm
-sdf,;sd,f;,
-;,sd;lf,;sd,f;sd'f
+# *OSC*
+ * Установка Onescript
+ * Установка VisualCode
+ ** f
