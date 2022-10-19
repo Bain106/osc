@@ -1,0 +1,14 @@
+
+{
+ "адресСервераSMTP": "smtp.ya.ru",
+ "пользовательSMTP": "dst1c@yandex.ru",
+ "парольSMTP": "ypcfbeexujhbyufz",
+ "портSMTP": 465,
+ "использоватьSSL": true,
+ "ОбратныйАдрес": "dst1c@yandex.ru",   
+ "Отправитель": "dst1c@yandex.ru",   
+ "получатели": 
+  { "tryit03@mail.ru",   
+  "tryit03@mail.ru"   
+  }
+}
