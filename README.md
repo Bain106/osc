@@ -13,14 +13,14 @@
 * Нажмите _F5_
 
 ## 2. Powershell
-_opm_ команды
-_opm -v_ версия oneScript на пк
-_opm ls --help_ 
-_opm ls установленные пакеты
-_opm ls -r_ все в хабе
-_opm i ReadParams_ установка пакета ReadParams.
+* _opm_ команды
+* _opm -v_ версия oneScript на пк
+* _opm ls --help_ 
+* _opm ls установленные пакеты
+* _opm ls -r_ все в хабе
+* _opm i ReadParams_ установка пакета ReadParams.
 
 ## 3. Пакеты oneScript
-_TMail_ 
-_ReadParams_ Чтение параметров из json файла
+* _TMail_ 
+* _ReadParams_ Чтение параметров из json файла
  
